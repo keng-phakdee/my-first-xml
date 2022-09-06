@@ -11,4 +11,4 @@
 
 ## My Porfolios
 
-Please see my Google Data Studio dashboard [here](https://www.google.co.th)
+Please see my Google Data Studio dashboard [here](https://github.com/keng-phakdee/my-first-xml/blob/main/Sales_Report_Batch_5_(July_2022).pdf)
